@@ -15,7 +15,7 @@ gem 'data_fake'
 Installing from github.
 
 ```ruby
-gem "data_fake", :git => 'https://github.com/sthasubin429/data_fake.git'
+gem "data_fake", :git => 'https://github.com/subinstha/data_fake.git'
 ```
 
 And then execute:
